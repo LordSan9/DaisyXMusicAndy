@@ -8,3 +8,7 @@ DURATION_LIMIT=10 # in minutes (default: 7)
 ARQ_API_KEY=
 UPDATES_CHANNEL=oyurl
 BG_IMAGE=https://telegra.ph/file/f0ebe2f627c2867a0a921.jpg
+DURATION_LIMIT=300 # in minutes (default: 300)
+BOT_USERNAME=uDq_bot
+ASSISTANT_NAME=IlBoSSll
+PROJECT_NAME=ilBoSSll
